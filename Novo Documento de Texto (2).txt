@@ -1,0 +1,4 @@
+describe itmn_usuario;
+insert into itmn_usuario values (null,"Professor Isidro","isidro@isidro.com","isidro","1234","69875","https://avatars.githubusercontent.com/u/6184696?v=4");
+insert into itmn_usuario values (null,"Maga Man","megaman@magaman.com","megaman","1234","010101","https://image.api.playstation.com/vulcan/ap/rnd/202009/2910/lZkQT8BZ6dkf8xAJSWSQ8tgr.png?w=1920&thumb=false");
+select * from  itmn_usuario;
